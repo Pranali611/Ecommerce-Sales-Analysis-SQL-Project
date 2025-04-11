@@ -23,3 +23,15 @@ This script can be used by data analysts, business analysts, and ecommerce manag
 Identify opportunities for marketing and inventory optimization
 
 Gain a better understanding of customer purchase patterns
+**Challenges**
+Data Cleaning: Ensuring data integrity and removing inconsistencies in product/category names.
+
+Joins and Subqueries: Writing complex joins to combine multiple tables for meaningful analysis.
+
+Date Formatting: Handling and formatting date fields for time-series analysis.
+
+Performance Optimization: Query optimization for large datasets.
+
+Insights Derivation: Converting raw numbers into actionable business insights.
+
+
