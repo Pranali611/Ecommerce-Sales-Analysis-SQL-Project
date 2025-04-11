@@ -1,0 +1,17 @@
+Scenario: Sales & Revenue Analysis
+Company: A retail company wants to analyze its sales performance across different regions, products, and time periods. They have given you a dataset containing sales transactions and customer details.
+
+Problem Statement:
+Analyze the total revenue generated per month.
+
+Identify the top 5 best-selling products.
+
+Find the total sales made by each salesperson.
+
+Calculate the average order value per customer.
+
+Identify which region has the highest revenue.
+
+Find customers who have made more than 3 purchases.
+
+Determine the most profitable product category.
